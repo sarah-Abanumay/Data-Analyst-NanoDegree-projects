@@ -1,6 +1,6 @@
 # Data-Analysis Nanodegrees at Udacity
 
-# list of project to complate course Data-Analysis Nanodegrees
+#list of project to complate course Data-Analysis Nanodegrees
 # P 0 Exploring Weather Trends 
 # P 1 Explore US Bikeshare Data
 # P 2 Investigate a Dataset
