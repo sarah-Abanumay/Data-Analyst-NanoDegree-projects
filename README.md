@@ -1,4 +1,8 @@
-# Data-Analysis Nanodegrees at Udacity.
+I am leaving this open source. Please do not plagarize my code! 
+
+
+
+# Data-Analyst Nanodegrees at Udacity.
 
 # list of project to complate course Data-Analysis Nanodegrees
 # P 0 Exploring Weather Trends 
